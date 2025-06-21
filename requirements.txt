@@ -2,3 +2,4 @@ streamlit
 stanza
 joblib
 Pillow
+scikit-learn
